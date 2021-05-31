@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPS Game</string>
+    <string name="title_activity_maps">BRN GPS Game</string>
+    <string name="title_activity_Login">BRN GPS Login</string>
+    <string name="signin">Sign in</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+</resources>
